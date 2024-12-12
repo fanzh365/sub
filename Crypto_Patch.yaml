@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,forter.com
   - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,mokexapp.com
+  - DOMAIN-SUFFIX,mokexapp.net
   - DOMAIN-KEYWORD,binance
   - DOMAIN-KEYWORD,saasexch
   - DOMAIN-KEYWORD,yingwangtech
