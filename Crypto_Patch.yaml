@@ -7,3 +7,4 @@ payload:
   - DOMAIN-KEYWORD,binance
   - DOMAIN-KEYWORD,saasexch
   - DOMAIN-KEYWORD,yingwangtech
+  - PROCESS-NAME,com.binance.dev
