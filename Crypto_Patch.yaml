@@ -8,6 +8,5 @@ payload:
   - DOMAIN-KEYWORD,saasexch
   - DOMAIN-KEYWORD,yingwangtech
   - PROCESS-NAME,com.binance.dev
-  - PROCESS-NAME,com.gatei0.cn.gatei0
   - PROCESS-NAME,com.bybit.app
-
+  - PROCESS-NAME,com.gatei0.cn.gatei0
