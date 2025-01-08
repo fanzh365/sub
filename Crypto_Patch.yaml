@@ -12,3 +12,5 @@ payload:
   - PROCESS-NAME,com.bybit.app
   - PROCESS-NAME,com.gatei0.cn.gatei0
   - PROCESS-NAME,com.tradingview.tradingviewapp
+  - PROCESS-NAME,com.kraken.invest.app
+  - PROCESS-NAME,com.kraken.trade
