@@ -1,4 +1,5 @@
 payload: 
+  #Binance
   - DOMAIN-SUFFIX,walletconnect.org
   - DOMAIN-SUFFIX,forter.com
   - DOMAIN-SUFFIX,appsflyersdk.com
@@ -7,6 +8,10 @@ payload:
   - DOMAIN-KEYWORD,binance
   - DOMAIN-KEYWORD,saasexch
   - DOMAIN-KEYWORD,yingwangtech
+  #CoinEX
+  - DOMAIN-SUFFIX,coinex.com
+  - DOMAIN-KEYWORD,coinex
+  #APP
   - PROCESS-NAME,com.binance.dev
   - PROCESS-NAME,com.okinc.okex.gp
   - PROCESS-NAME,com.bybit.app
@@ -14,4 +19,4 @@ payload:
   - PROCESS-NAME,com.tradingview.tradingviewapp
   - PROCESS-NAME,com.kraken.invest.app
   - PROCESS-NAME,com.kraken.trade
-  - DOMAIN-KEYWORD,coinex
+
