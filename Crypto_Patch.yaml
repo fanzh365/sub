@@ -11,6 +11,8 @@ payload:
   #CoinEX
   - DOMAIN-SUFFIX,coinex.com
   - DOMAIN-KEYWORD,coinex
+  #tradeogre
+  - DOMAIN-SUFFIX,tradeogre.com
   #APP
   - PROCESS-NAME,com.binance.dev
   - PROCESS-NAME,com.okinc.okex.gp
