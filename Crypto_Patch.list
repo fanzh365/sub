@@ -9,7 +9,7 @@ DOMAIN-KEYWORD,saasexch
 DOMAIN-KEYWORD,yingwangtech
 ip-cidr,47.107.98.27/32
 ip-cidr,47.107.127.135/32
-ip-cidr,52.68.117.1/32,
+ip-cidr,52.68.117.1/32
 ip-cidr,35.77.148.188/32
 ip-cidr,54.150.106.1/32
 ip-cidr,13.248.135.87/32
