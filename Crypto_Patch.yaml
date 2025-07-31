@@ -31,3 +31,4 @@ payload:
   - PROCESS-NAME,com.gatei0.cn.gatei0
   - PROCESS-NAME,com.gateio.gateio
   - PROCESS-NAME,com.coinex.trade.play
+  - PROCESS-NAME,app.backpack.mobile
