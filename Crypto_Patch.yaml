@@ -20,6 +20,8 @@ payload:
   - DOMAIN-KEYWORD,coinex
   #tradeogre
   - DOMAIN-SUFFIX,tradeogre.com
+  #other
+  - DOMAIN-SUFFIX,coinglass.com
   #APP
   - PROCESS-NAME,com.binance.dev
   - PROCESS-NAME,com.tradingview.tradingviewapp
@@ -32,3 +34,4 @@ payload:
   - PROCESS-NAME,com.gateio.gateio
   - PROCESS-NAME,com.coinex.trade.play
   - PROCESS-NAME,app.backpack.mobile
+  - PROCESS-NAME,com.coinglass.android
