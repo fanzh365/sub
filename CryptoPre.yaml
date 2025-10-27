@@ -1,3 +1,6 @@
+  #MEXC
+  - DOMAIN-SUFFIX,,mexc.com
+  - DOMAIN-KEYWORD,mexc
   #APP
   - PROCESS-NAME,com.bybit.app
   - PROCESS-NAME,com.mexcpro.client
