@@ -1,6 +1,4 @@
 payload: 
-  - DOMAIN-SUFFIX,meta.ai
-  - DOMAIN-SUFFIX,perplexity.ai
   - PROCESS-NAME,com.openai.chatgpt
   - PROCESS-NAME,ai.x.grok
   - PROCESS-NAME,com.google.android.apps.bard
