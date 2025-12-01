@@ -1,6 +1,6 @@
 payload:
   #Binance
-- DOMAIN-SUFFIX,walletconnect.org   # 钱包连接协议
+  - DOMAIN-SUFFIX,walletconnect.org   # 钱包连接协议
   - DOMAIN-SUFFIX,forter.com          # 许多交易所用的反欺诈服务
   - DOMAIN-SUFFIX,appsflyersdk.com    # App 归因与统计
   - DOMAIN-KEYWORD,binance
