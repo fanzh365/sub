@@ -2,9 +2,8 @@
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,forter.com
 DOMAIN-SUFFIX,appsflyersdk.com
-DOMAIN-SUFFIX,mokexapp.com
-DOMAIN-SUFFIX,mokexapp.net
 DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,mokexapp
 DOMAIN-KEYWORD,saasexch
 DOMAIN-KEYWORD,yingwangtech
 IP-CIDR,47.107.98.27/32
