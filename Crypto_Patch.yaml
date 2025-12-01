@@ -1,11 +1,10 @@
-payload: 
+payload:
   #Binance
-  - DOMAIN-SUFFIX,walletconnect.org
-  - DOMAIN-SUFFIX,forter.com
-  - DOMAIN-SUFFIX,appsflyersdk.com
-  - DOMAIN-SUFFIX,mokexapp.com
-  - DOMAIN-SUFFIX,mokexapp.net
+- DOMAIN-SUFFIX,walletconnect.org   # 钱包连接协议
+  - DOMAIN-SUFFIX,forter.com          # 许多交易所用的反欺诈服务
+  - DOMAIN-SUFFIX,appsflyersdk.com    # App 归因与统计
   - DOMAIN-KEYWORD,binance
+  - DOMAIN-KEYWORD,mokexapp
   - DOMAIN-KEYWORD,saasexch
   - DOMAIN-KEYWORD,yingwangtech
   - IP-CIDR,47.107.98.27/32
@@ -15,13 +14,9 @@ payload:
   - IP-CIDR,54.150.106.1/32
   - IP-CIDR,13.248.135.87/32
   - IP-CIDR,47.107.32.31/32
-  #CoinEX
+  # 二线交易所 (Geosite 未收录)
   - DOMAIN-SUFFIX,coinex.com
   - DOMAIN-KEYWORD,coinex
-  #tradeogre
-  - DOMAIN-SUFFIX,tradeogre.com
-  #other
-  - DOMAIN-SUFFIX,coinglass.com
   #APP
   - PROCESS-NAME,com.binance.dev
   - PROCESS-NAME,com.tradingview.tradingviewapp
@@ -36,3 +31,24 @@ payload:
   - PROCESS-NAME,app.backpack.mobile
   - PROCESS-NAME,com.coinglass.android
   - PROCESS-NAME,com.mexcpro.client
+  # ==================================================
+  # 交易与支付 (Trading & Payments) - 强风控
+  # 这些站点涉及真金白银，建议固定节点，必须保留
+  # 加密支付卡 (RedotPay 等对 IP 变动非常敏感)
+  - DOMAIN-SUFFIX,redotpay.com
+  - DOMAIN-SUFFIX,redotpay.zendesk.com
+  - DOMAIN-SUFFIX,straitsx.com
+  - DOMAIN-SUFFIX,guardarian.com
+  - DOMAIN-SUFFIX,invity.io
+  # 预测市场 (Polymarket 虽用 US 节点可能受限，但属于高频交易类)
+  - DOMAIN-SUFFIX,polymarket.com
+  # ==================================================
+  # 硬件钱包配套 (Hardware Wallets)
+  # 涉及固件更新和资产同步，属于核心资产管理
+  - DOMAIN-SUFFIX,onekey.so
+  - DOMAIN-SUFFIX,onekey.zendesk.com
+  - DOMAIN-SUFFIX,onekey-asset.com
+  - DOMAIN-SUFFIX,onekeycn.com
+  - DOMAIN-SUFFIX,trezor.io
+  - DOMAIN-SUFFIX,satoshilabs.com
+  - DOMAIN-SUFFIX,ledger.com
