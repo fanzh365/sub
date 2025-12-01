@@ -1,14 +1,14 @@
 payload: 
-  - DOMAIN-SUFFIX,bybit.com
+  - GEOSITE,bybit
   - DOMAIN-KEYWORD,bybit
+  - GEOSITE,okx
+  - DOMAIN-KEYWORD,okx 
   - DOMAIN-SUFFIX,bitget.com
   - DOMAIN-KEYWORD,bitget
   - DOMAIN-SUFFIX,mexc.com
   - DOMAIN-KEYWORD,mexc
-  - DOMAIN-SUFFIX,okx.com
-  - DOMAIN-KEYWORD,okx 
   #APP
   - PROCESS-NAME,com.bybit.app
+  - PROCESS-NAME,com.okinc.okex.gp
   - PROCESS-NAME,com.bitget.exchange
   - PROCESS-NAME,com.mexcpro.client
-  - PROCESS-NAME,com.okinc.okex.gp
