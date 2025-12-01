@@ -19,7 +19,7 @@ payload:
   - DOMAIN-KEYWORD,coinex
   #APP
   - PROCESS-NAME,com.binance.dev
-  - PROCESS-NAME,com.tradingview.tradingviewapp
+  #- PROCESS-NAME,com.tradingview.tradingviewapp
   - PROCESS-NAME,com.kraken.invest.app
   - PROCESS-NAME,com.kraken.trade
   - PROCESS-NAME,com.bybit.app
