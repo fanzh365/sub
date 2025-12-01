@@ -19,7 +19,6 @@ payload:
   - DOMAIN-KEYWORD,coinex
   #APP
   - PROCESS-NAME,com.binance.dev
-  #- PROCESS-NAME,com.tradingview.tradingviewapp
   - PROCESS-NAME,com.kraken.invest.app
   - PROCESS-NAME,com.kraken.trade
   - PROCESS-NAME,com.bybit.app
@@ -31,6 +30,7 @@ payload:
   - PROCESS-NAME,app.backpack.mobile
   - PROCESS-NAME,com.coinglass.android
   - PROCESS-NAME,com.mexcpro.client
+  #- PROCESS-NAME,com.tradingview.tradingviewapp
   # ==================================================
   # 交易与支付 (Trading & Payments) - 强风控
   # 这些站点涉及真金白银，建议固定节点，必须保留
