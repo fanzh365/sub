@@ -1,0 +1,12 @@
+payload:
+  - IN-PORT,7897
+  - DST-PORT,53
+  - PROCESS-NAME,mihomo
+  - PROCESS-NAME,verge-mihomo.exe
+  - PROCESS-NAME,clash-verge.exe
+  - PROCESS-NAME,chrome.exe
+  - PROCESS-NAME,steam.exe
+  - PROCESS-NAME,html5app_steam.exe
+  - PROCESS-NAME,steamwebhelper.exe
+  - GEOIP,CLOUDFLARE,no-resolve
+  - GEOIP,GOOGLE,no-resolve
