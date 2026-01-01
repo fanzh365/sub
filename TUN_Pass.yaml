@@ -7,5 +7,3 @@ payload:
   - PROCESS-NAME,steam.exe
   - PROCESS-NAME,html5app_steam.exe
   - PROCESS-NAME,steamwebhelper.exe
-  - GEOIP,CLOUDFLARE,no-resolve
-  - GEOIP,GOOGLE,no-resolve
