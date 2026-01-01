@@ -1,6 +1,7 @@
 payload:
   - IN-PORT,7897
-  - PROCESS-NAME,mihomo
+  - IN-USER,mihomo
+  - IN-TYPE,inner
   - PROCESS-NAME,verge-mihomo.exe
   - PROCESS-NAME,clash-verge.exe
   - PROCESS-NAME,steam.exe
