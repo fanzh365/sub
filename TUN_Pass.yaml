@@ -2,6 +2,7 @@ payload:
   - IN-PORT,7897
   - IN-TYPE,inner
   - PROCESS-NAME,clash-verge.exe
+  - PROCESS-NAME,chrome.exe
   - PROCESS-NAME,steam.exe
   - PROCESS-NAME,html5app_steam.exe
   - PROCESS-NAME,steamwebhelper.exe
