@@ -1,6 +1,5 @@
 payload: 
   - PROCESS-NAME,com.openai.chatgpt
-  - PROCESS-NAME,com.google.android.apps.bard
   - PROCESS-NAME,com.anthropic.claude
   - PROCESS-NAME,ai.x.grok 
   - DOMAIN,integrate.api.nvidia.com
